@@ -6,7 +6,7 @@ A project from 21 School. It's a library with all needed functions for students 
 >make
 ```
 ### Usage in other projects
-* Include libft in project `#include "libft.h". Compile with your project.
+* Include libft in project `#include "libft.h"`. Compile with your project.
 ```
 >gcc main.c libft
 ```
